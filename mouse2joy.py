@@ -5,8 +5,8 @@ import time
 
 # Configuration
 gamepad_mode = "VDS4Gamepad"  
-scale_factor = 100  
-speed = 0.005
+scale_factor = 50
+speed = 0.0005
 quit_command = "ctrl+shift+c"  
 print_values = True  
 
